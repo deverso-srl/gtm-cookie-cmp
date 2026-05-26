@@ -15,5 +15,5 @@
 homepage: "https://www.permissor.it"
 documentation: "https://www.permissor.it/cmp-google"
 versions:
-  - sha: ""
+  - sha: "fdcf473b63b1af30872785d124d137b27e4bbc66"
     changeNotes: Initial release.
